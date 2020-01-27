@@ -1,0 +1,26 @@
+Django Choices and Current user automatic populate -->   https://www.one-tab.com/page/uYb2WwU3RBGYn8bzoHbYfg
+
+
+https://github.com/search?q=dal_select2&type=Commits | Search · dal_select2
+https://www.udemy.com/course/django-course/learn/lecture/13824034?start=264#overview | Django 2 Masterclass : Build Web Apps With Python & Django | Udemy
+https://duckduckgo.com/?q=How+to+assign+a+current+logged+in+user+in+django+model+field&atb=v175-1&ia=web | How to assign a current logged in user in django model field at DuckDuckGo
+https://stackoverflow.com/questions/4670783/make-the-user-in-a-model-default-to-the-current-user | python - make the user in a model default to the current user - Stack Overflow
+https://cmsdk.com/python/get-current-logged-in-user-and-set-as-default-user-on-model--django--python3.html | Get current logged in User and set as default user on Model | Django + Python3
+https://stackoverflow.com/questions/57827478/how-to-assign-a-logged-in-user-automatically-to-a-post-in-django-rest-framework | python - How to assign a logged in user automatically to a post In Django Rest framework? - Stack Overflow
+https://stackoverflow.com/questions/16906515/how-can-i-get-the-username-of-the-logged-in-user-in-django#16906564 | python - How can I get the username of the logged-in user in Django? - Stack Overflow
+http://www.learningaboutelectronics.com/Articles/How-to-save-the-current-user-logged-in-to-a-database-table-in-Django.php | How to Save The Current User Logged In to a Database Table in Django
+https://stackoverflow.com/questions/2414473/how-to-assign-currently-logged-in-user-as-default-value-for-a-model-field | django - How to assign currently logged in user as default value for a model field? - Stack Overflow
+https://stackoverflow.com/questions/604266/django-set-default-form-values/604325#604325 | python - Django set default form values - Stack Overflow
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/generic-editing/#models-and-request-user | Form handling with class-based views | Django documentation | Django
+https://djangopatterns.readthedocs.io/en/latest/models/automatically_filling_user.html | Automatically Filling in a User in the Admin — Django Patterns
+http://127.0.0.1:8000/admin/test1/capuser/add/ | TypeError at /admin/test1/capuser/add/
+http://127.0.0.1:8000/admin/test1/capuser/add/ | Add cap user | Django site admin
+https://tureng.com/en/turkish-english/render | Tureng - render - Turkish English Dictionary
+https://duckduckgo.com/?q=how+to+change+django+model+choices+according+to+a+condition&atb=v175-1&ia=web | how to change django model choices according to a condition at DuckDuckGo
+https://stackoverflow.com/questions/58512056/django-conditional-choices | python - Django Conditional Choices - Stack Overflow
+https://stackoverflow.com/questions/57967928/django-models-making-with-multiple-condition | Django models making with multiple condition - Stack Overflow
+https://stackoverflow.com/questions/33927716/manytomany-model-field-where-choices-change-based-on-boolean | django - ManyToMany model field where choices change based on boolean - Stack Overflow
+https://stackoverflow.com/questions/4521821/how-do-i-change-the-choices-in-a-django-model | python - How do I change the choices in a Django model? - Stack Overflow
+https://stackoverflow.com/questions/14025733/django-model-choices | Django Model Choices - Stack Overflow
+https://stackoverflow.com/questions/56102993/change-choice-field-of-model-in-django-view | python - Change choice field of model in django view - Stack Overflow
+https://docs.djangoproject.com/en/3.0/ref/models/meta/#module-django.db.models.options | Model _meta API | Django documentation | Django
